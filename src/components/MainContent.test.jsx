@@ -6,6 +6,8 @@ import MainContent from './MainContent';
 
 import React from "react";
 
+// My tests
+
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
